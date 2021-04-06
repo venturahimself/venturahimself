@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hei på deg! 👋
+Velkommen til siden min! 😄
+
+### Family:
+Nicklas (@nicklasmyren)
+Bettina (@bettinamyren)
 
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
