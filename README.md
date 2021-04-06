@@ -1,4 +1,6 @@
 ### Hei på deg! 👋
+
+💬 Dette er en test!
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
