@@ -1,4 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
+[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
+
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
