@@ -1,6 +1,5 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
-!<img align="right" width="250" height="250" src="https://raw.githubusercontent.com/venturahimself/venturahimself/main/v-bullet.gif">
 ### Yo! 👋 I'm working on this profile! 💬
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**
 
