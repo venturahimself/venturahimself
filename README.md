@@ -6,7 +6,7 @@
 
 ["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!
 
-**Github Repositories**\
+**Github Repositories**:\
 [Codespace](https://github.com/venturahimself/codespace) - [Twenty VENTURA v1.0](https://github.com/venturahimself/twentyventura) - [Github Page](https://github.com/venturahimself/venturahimself.github.io)
 
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://link.ventura.one/facebook)
