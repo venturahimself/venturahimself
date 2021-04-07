@@ -5,7 +5,7 @@
 
 ### Hei på deg! 👋
 
-Dette er en test! 💬
+Dette er en test! 💬 [x]
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
