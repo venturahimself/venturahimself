@@ -2,8 +2,8 @@
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://github.com/venturahimself)
-### Yo! 👋
-I'm working on this profile! 💬
+# Yo! 👋
+### I'm working on this profile! 💬
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/116722?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge)](https://mstdn.social/@venturahimself)\
