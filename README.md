@@ -1,6 +1,10 @@
+https://badges.pufler.dev/visits/venturahimself/venturahimself
 ### Hei på deg! 👋
 
 Dette er en test! 💬
+
+[![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
+
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
