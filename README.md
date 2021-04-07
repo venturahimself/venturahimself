@@ -7,7 +7,7 @@ Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more
 ***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
 ["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!\
-[NTWRK IRC](https://ntwrk.cf):\
+**[NTWRK IRC](https://ntwrk.cf)**:\
 **irc.ntwrk.cf +6697 (SSL)** - **ilt4a4ulsdpvjrqv.onion +6697 (SSL)**
 
 **Github Repositories**:\
