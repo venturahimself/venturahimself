@@ -1,5 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
+[![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://badges.pufler.dev)
 
 ### Hei på deg! 👋
