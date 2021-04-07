@@ -1,6 +1,6 @@
 [![venturahimself's GitHub Banner](./assets/GitHubHeader.png)](https://ventura.one/)
 
-[![GitHub Banner](.venturahimself/venturahimself/blob/main/venturahimself.github.png)](https://github.com/venturahimself)
+[![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)
 
 https://github.com/venturahimself/venturahimself/blob/main/venturahimself.github.png
 
