@@ -3,8 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://github.com/venturahimself)
 
-### Yo! 👋
-
+### Yo! 👋\
 I'm working on this profile! 💬
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
