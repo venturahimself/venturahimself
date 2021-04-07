@@ -1,5 +1,5 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
-[![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself) ***:taurus: :norway: :rocket: :e-mail: :elephant:***
+[![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself) **:taurus: :norway: :rocket: :e-mail: :elephant:**
 ### Yo! 👋 I'm working on this profile! 💬
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
 ***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
