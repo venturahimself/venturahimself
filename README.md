@@ -1,7 +1,5 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)
 
-https://github.com/venturahimself/venturahimself/blob/main/venturahimself.github.png
-
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://badges.pufler.dev)
