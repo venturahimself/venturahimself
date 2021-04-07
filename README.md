@@ -1,5 +1,4 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)\
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://github.com/venturahimself)\
@@ -12,6 +11,7 @@ Dette er en test! 💬 [x]
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)\
 ![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
