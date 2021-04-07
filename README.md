@@ -2,7 +2,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://github.com/venturahimself)\
-[Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)
+[![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)
 
 ### Hei på deg! 👋
 
