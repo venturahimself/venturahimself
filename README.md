@@ -2,7 +2,7 @@
 ### [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself) ***:taurus: :norway: :rocket: :e-mail: :elephant:*** ### 
 ### Yo! 👋 I'm working on this profile! 💬
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
-***💕: [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
+***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
 ["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!\
 
