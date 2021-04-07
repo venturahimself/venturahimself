@@ -4,7 +4,10 @@
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
 ***💕: [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
-["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!
+["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!\
+
+**Repositories**\
+[Codespace](https://github.com/venturahimself/codespace) - [TwentyVENTURA v1.0 (WP Theme)](https://github.com/venturahimself/twentyventura) - [Github Page](https://github.com/venturahimself/venturahimself.github.io)
 
 [![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Fventura.one)](https://ventura.one/)
 [![Website](https://img.shields.io/website?label=ventura.120v.ac&style=for-the-badge&url=https%3A%2F%2Fventura.120v.ac)](https://ventura.120v.ac/)
