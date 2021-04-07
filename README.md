@@ -12,8 +12,7 @@ Dette er en test! 💬 [x]
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)\
-![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)
-
+![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)\
 ![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
 
 <!--
