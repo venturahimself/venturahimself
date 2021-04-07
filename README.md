@@ -2,6 +2,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https://github.com/venturahimself)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://github.com/venturahimself)
+
 ### Yo!👋 I'm working on this profile! 💬
 
 [![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Fventura.one)](https://ventura.one/)
