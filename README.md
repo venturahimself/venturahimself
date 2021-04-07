@@ -1,6 +1,6 @@
+[![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
 [![Years Badge](https://badges.pufler.dev/years/venturahimself)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://badges.pufler.dev)
 
 ### Hei på deg! 👋
 
