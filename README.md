@@ -8,10 +8,12 @@
 Dette er en test! 💬
 
 [![Visits Badge](https://badges.pufler.dev/visits/venturahimself/venturahimself)](https:ventura.one)
-![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
+
 ![Keybase PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)
 ![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)
 
+
+![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
