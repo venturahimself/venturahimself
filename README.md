@@ -1,6 +1,9 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself)
 ### Yo!👋 I'm working on this profile! 💬
+*** Linux Enthusiast. (I <3 DEBIAN!)
+*** Self Hoster, Mostly.
+*** Free Thinker.
 
 [![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Fventura.one)](https://ventura.one/)
 [![Website](https://img.shields.io/website?label=ventura.120v.ac&style=for-the-badge&url=https%3A%2F%2Fventura.120v.ac)](https://ventura.120v.ac/)
