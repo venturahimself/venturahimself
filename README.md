@@ -6,7 +6,9 @@ Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
 ***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
-["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!
+["I don't get mad, I get stabby!"](https://venturahimself.github.io/I.dont.get.mad.I.get.stabby.webm) <-- explained!\
+[NTWRK IRC](https://ntwrk.cf):\
+**irc.ntwrk.cf +6697 (SSL)** - **ilt4a4ulsdpvjrqv.onion +6697 (SSL)**
 
 **Github Repositories**:\
 [Codespace](https://github.com/venturahimself/codespace) - [Twenty VENTURA v1.0](https://github.com/venturahimself/twentyventura) - [Github Page](https://github.com/venturahimself/venturahimself.github.io)
