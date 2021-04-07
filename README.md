@@ -5,15 +5,15 @@
 
 ### Hei på deg! 👋
 
-Dette er en test! 💬 [x]
+Dette er en test! 💬
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/116722?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge)](https://mstdn.social/@venturahimself)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)\
-![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)\
-![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)](https://keybase.io/venturahimself#show-public)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)](https://reddit.com/u/venturahimself/)\
+[![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)](https://keybase.io/venturahimself)\
+[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself)
 
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
