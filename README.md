@@ -6,7 +6,7 @@ Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
 ***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
-**Favorite Quote**:\ 
+**Favorite Quote**: 
 *["I don't get mad, I get stabby!"](https://link.ventura.one/idontgetmadigetstabby)*
 
 **[NTWRK IRC Servers](https://ntwrk.cf)**\
