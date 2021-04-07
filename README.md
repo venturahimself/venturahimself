@@ -10,7 +10,7 @@
 [![Public PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)](https://gist.github.com/49a6f3fc5ef2ad3a72810505076ce031)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)](https://reddit.com/u/venturahimself/)\
 [![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)](https://keybase.io/venturahimself)\
-[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself)
+[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself/venturahimself)
 <!--
 **venturahimself/venturahimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
