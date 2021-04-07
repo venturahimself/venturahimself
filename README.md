@@ -2,7 +2,8 @@
 ### [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself) :taurus: :norway: :rocket: :e-mail: :elephant: ### 
 ### Yo! 👋 I'm working on this profile! 💬
 **🐧 Linux Enthusiast - I 💖 DEBIAN!**\
-My 💕: [BettinaM](https://github.com/bettinamyren)\
+**💕: [BettinaM](https://github.com/bettinamyren)**
+
 [![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Fventura.one)](https://ventura.one/)
 [![Website](https://img.shields.io/website?label=ventura.120v.ac&style=for-the-badge&url=https%3A%2F%2Fventura.120v.ac)](https://ventura.120v.ac/)
 [![Website](https://img.shields.io/website?label=ntwrk.cf&style=for-the-badge&url=https%3A%2F%2Fntwrk.cf)](https://ntwrk.cf/)\
