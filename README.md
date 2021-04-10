@@ -23,7 +23,7 @@ TOR: **[ilt4a4ulsdpvjrqv.onion +6697](irc://ilt4a4ulsdpvjrqv.onion/+6697) (SSL)*
 [![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://link.ventura.one/github)
 [![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://link.ventura.one/telegram)
 
-[![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Flink.ventura.one/web)](https://ventura.one/)
+[![Website](https://img.shields.io/website?label=ventura.one&style=for-the-badge&url=https%3A%2F%2Fventura.one)](https://link.ventura.one/web)
 [![Website](https://img.shields.io/website?label=ventura.120v.ac&style=for-the-badge&url=https%3A%2F%2Fventura.120v.ac)](https://ventura.120v.ac/)
 [![Website](https://img.shields.io/website?label=ntwrk.cf&style=for-the-badge&url=https%3A%2F%2Fntwrk.cf)](https://ntwrk.cf/)\
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
