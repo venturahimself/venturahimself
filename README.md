@@ -16,7 +16,7 @@ TOR: **[ilt4a4ulsdpvjrqv.onion +6697](irc://ilt4a4ulsdpvjrqv.onion/+6697) (SSL)*
 **Github Repositories**:\
 [Codespace](https://github.com/venturahimself/codespace) - [Twenty VENTURA v1.0](https://github.com/venturahimself/twentyventura) - [Github Page](https://github.com/venturahimself/venturahimself.github.io)
 
-**Member of: [Quadriga Codespace](https://github.com/quadriga-codespace/)**
+**Member of: [Quadriga Codespace](https://github.com/quadriga-codespace/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
 
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://link.ventura.one/facebook)
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://link.ventura.one/twitter)
