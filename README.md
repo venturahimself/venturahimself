@@ -7,7 +7,7 @@ Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more
 ***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
 
 **Favorite Quote**: 
-*["I don't get mad, I get stabby!"](https://link.ventura.one/idontgetmadigetstabby)*
+*["𝕀 𝕕𝕠𝕟'𝕥 𝕘𝕖𝕥 𝕞𝕒𝕕, 𝕀 𝕘𝕖𝕥 𝕤𝕥𝕒𝕓𝕓𝕪!"](https://link.ventura.one/idontgetmadigetstabby)*
 
 **[NTWRK IRC Servers](https://ntwrk.cf)**\
 Clearnet: **[irc.ntwrk.cf +6697](irc://irc.ntwrk.cf/+6697) (SSL)**\
