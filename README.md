@@ -28,4 +28,5 @@ TOR: **[ilt4a4ulsdpvjrqv.onion +6697](irc://ilt4a4ulsdpvjrqv.onion/+6697) (SSL)*
 [![Public PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)](https://gist.github.com/49a6f3fc5ef2ad3a72810505076ce031)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)](https://reddit.com/u/venturahimself/)\
 [![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)](https://keybase.io/venturahimself)\
-[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself/venturahimself)
+[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself/venturahimself)\
+[![Glow Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/glow-ventura-gif.gif)](https://github.com/venturahimself)
