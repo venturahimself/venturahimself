@@ -3,8 +3,7 @@
 ### Yo! 👋 I'm working on this profile! 💬
 Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://info.ventura.one/) here!
 
-**🐧 Linux Enthusiast - I 💖 DEBIAN!**\
-***💕 [Bettina](https://github.com/bettinamyren) & [Nicklas](https://github.com/nicklasmyren)***
+**🐧 Linux Enthusiast - I 💖 DEBIAN!**
 
 **[NTWRK IRC Servers](https://ntwrk.cf)**\
 Clearnet: **[irc.ntwrk.cf +6697](irc://irc.ntwrk.cf/+6697) (SSL)**\
