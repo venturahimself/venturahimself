@@ -1,18 +1,9 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
 [![Updated Badge](https://badges.pufler.dev/updated/venturahimself/venturahimself)](https://github.com/venturahimself) **:taurus: :norway: :rocket: :e-mail: :elephant:**
-### Yo! 👋 I'm working on this profile! 💬
+### Yo! 👋 I am continously working on this profile! 💬
 Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://info.ventura.one/) here!
 
-**🐧 Linux Enthusiast - I 💖 DEBIAN!**
-
-**[NTWRK IRC Servers](https://ntwrk.cf)**\
-Clearnet: **[irc.ntwrk.cf +6697](irc://irc.ntwrk.cf/+6697) (SSL)**\
-TOR: **[ilt4a4ulsdpvjrqv.onion +6697](irc://ilt4a4ulsdpvjrqv.onion/+6697) (SSL)**
-
-**Github Repositories**:\
-[Codespace](https://github.com/venturahimself/codespace) - [Twenty VENTURA v1.0](https://github.com/venturahimself/twentyventura) - [Github Page](https://github.com/venturahimself/venturahimself.github.io)
-
-**Member of: [Quadriga Codespace](https://github.com/quadriga-codespace/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
+**Member of: [Skimask Incorporated](https://github.com/theskimaskway/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
 
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://link.ventura.one/facebook)
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://link.ventura.one/twitter)
