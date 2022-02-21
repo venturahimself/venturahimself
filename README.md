@@ -3,10 +3,10 @@
 ### Yo! 👋 I am continously working on this profile! 💬
 Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://information.vntra.one/) here!
 
-[![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://link.ventura.one/facebook)
-[![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://link.ventura.one/twitter)
-[![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://link.ventura.one/github)
-[![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://link.ventura.one/telegram)
+[![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://facebook.com/venturahimself)
+[![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://twitter.com/venturahimself)
+[![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://github.com/venturahimself)
+[![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://t.me/venturahimself)
 
 **Proud Member of [Skimask Incorporated](https://github.com/theskimaskway/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
 
