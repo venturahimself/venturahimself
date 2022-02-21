@@ -3,7 +3,7 @@
 ### Yo! 👋 I am continously working on this profile! 💬
 Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://information.vntra.one/) here!
 
-**Member of: [Skimask Incorporated](https://github.com/theskimaskway/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
+**Proud Member of [Skimask Incorporated](https://github.com/theskimaskway/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
 
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://link.ventura.one/facebook)
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://link.ventura.one/twitter)
