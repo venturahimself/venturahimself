@@ -7,7 +7,6 @@ Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://twitter.com/venturahimself)
 [![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://github.com/venturahimself)
 [![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://t.me/venturahimself)\
-**Proud Member of [Skimask Incorporated](https://github.com/theskimaskway/) & [SLAUGHTEROUS](https://github.com/slaughterous/)**
 
 [![Website](https://img.shields.io/website?label=vln.one&style=for-the-badge&url=https%3A%2F%2Fvln.one)](https://vln.one)
 [![Website](https://img.shields.io/website?label=venturahimself.pro&style=for-the-badge&url=https%3A%2F%2Fventurahimself.pro)](https://venturahimself.pro/)
