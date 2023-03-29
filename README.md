@@ -16,4 +16,4 @@
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)](https://reddit.com/u/venturahimself/)\
 [![Keybase XLM](https://img.shields.io/keybase/xlm/venturahimself?style=for-the-badge)](https://keybase.io/venturahimself)\
 [![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself/venturahimself)\
-[![trophy](https://github-profile-trophy.vercel.app/?username=venturahimself&theme=onedark)](https://github.com/venturahimself/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=venturahimself&theme=dark_dimmed)](https://github.com/venturahimself/github-profile-trophy)
