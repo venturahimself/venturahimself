@@ -1,7 +1,6 @@
 [![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
 **:taurus: :norway: :rocket: :e-mail: :elephant:**
 ### Yo! 👋 I am continously working on this profile! 💬
-Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://information.vntra.one/) here!
 
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://facebook.com/venturahimself)
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://twitter.com/venturahimself)
