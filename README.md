@@ -3,6 +3,8 @@
 ### Yo! 👋 I am continously working on this profile! 💬
 Check out my [CV](https://github.com/venturahimself/curriculumvitae) & some more [information](https://information.vntra.one/) here!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=venturahimself&theme=onedark)](https://github.com/venturahimself/github-profile-trophy)
+
 [![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://facebook.com/venturahimself)
 [![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://twitter.com/venturahimself)
 [![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://github.com/venturahimself)
