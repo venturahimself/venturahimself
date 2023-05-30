@@ -7,7 +7,7 @@
 [![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://github.com/venturahimself)
 [![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://t.me/venturahimself)
 
-[![Website](https://img.shields.io/website?label=dmjs.no&style=for-the-badge&url=https%3A%2F%2Fdmjs.no)](https://dmjs.no)
+[![Website](https://img.shields.io/website?label=lasse.kjolstad.pro&style=for-the-badge&url=https%3A%2F%2Flasse.kjolstad.pro)](https://lasse.kjolstad.pro)
 [![Website](https://img.shields.io/website?label=vntra.eu.org&style=for-the-badge&url=https%3A%2F%2Fvntra.eu.org)](https://vntra.eu.org)
 [![Website](https://img.shields.io/website?label=ventura.black&style=for-the-badge&url=https%3A%2F%2Fventura.black)](https://ventura.black)\
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
