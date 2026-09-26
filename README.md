@@ -1,20 +1,69 @@
-[![GitHub Banner](https://raw.githubusercontent.com/venturahimself/venturahimself/main/venturahimself.github.png)](https://github.com/venturahimself)\
-**:taurus: :norway: :rocket: :e-mail: :elephant:**
-### Yo! 👋 I am continously working on this profile! 💬
+<div align="center">
 
-[![Facebook](https://raw.githubusercontent.com/venturahimself/venturahimself/main/facebook.transparent.small.png)](https://facebook.com/venturahimself)
-[![Twitter](https://raw.githubusercontent.com/venturahimself/venturahimself/main/twitter.transparent.small.png)](https://twitter.com/venturahimself)
-[![Github](https://raw.githubusercontent.com/venturahimself/venturahimself/main/github.transparent.small.png)](https://github.com/venturahimself)
-[![Telegram](https://raw.githubusercontent.com/venturahimself/venturahimself/main/telegram.transparent.small.png)](https://t.me/venturahimself)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050708,50:0d1117,100:050708&height=180&section=header&text=LASSE%20KJØLSTAD&fontColor=35e8ff&fontSize=42&fontAlignY=40&animation=blink&desc=root%40kjolstad.pro&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-[![Website](https://img.shields.io/website?label=lasse.kjolstad.pro&style=for-the-badge&url=https%3A%2F%2Flasse.kjolstad.pro)](https://lasse.kjolstad.pro)
-[![Website](https://img.shields.io/website?label=lasse.wtf&style=for-the-badge&url=https%3A%2F%2Flasse.wtf)](https://lasse.wtf)
-[![Website](https://img.shields.io/website?label=ventura.black&style=for-the-badge&url=https%3A%2F%2Fventura.black)](https://ventura.black)\
-[![Website](https://img.shields.io/website?label=ventura.sh&style=for-the-badge&url=https%3A%2F%2Fventura.sh)](https://ventura.sh)
-[![Website](https://img.shields.io/website?label=vln.one&style=for-the-badge&url=https%3A%2F%2Fvln.one)](https://vln.one)
-[![Website](https://img.shields.io/website?label=vntra.eu.org&style=for-the-badge&url=https%3A%2F%2Fvntra.eu.org)](https://vntra.eu.org)\
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/venturahimself)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/116722?domain=https%3A%2F%2Fmstdn.social&style=for-the-badge)](https://mstdn.social/@venturahimself)\
-[![Public PGP](https://img.shields.io/keybase/pgp/venturahimself?style=for-the-badge)]([https://gist.github.com/49a6f3fc5ef2ad3a72810505076ce031](https://gist.github.com/venturahimself/49a6f3fc5ef2ad3a72810505076ce031))
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/venturahimself?style=for-the-badge)](https://reddit.com/u/venturahimself/)\
-[![GitHub repo size](https://img.shields.io/github/repo-size/venturahimself/venturahimself?style=for-the-badge)](https://github.com/venturahimself/venturahimself)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=560&lines=~%24+whoami;IT-konsulent+%E2%80%94+Linux+%2F+drift+%2F+infrastruktur;kun+Linux.+ingen+unntak.;fortsatt+innom+IRC+titt+og+ofte" alt="typing banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1400&pause=400&color=35E8FF&center=true&vCenter=true&width=560&lines=%5B0x4E1A%5D+SYNC...+OK;%5B0x0FF1%5D+SIGNAL+UNSTABLE;%5BERR%5D+jazzhender.exe+has+stopped+responding;%5B0x2B00%5D+REBOOTING+CHARISMA..." alt="glitch log"/>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/kjolstad.pro-000000?style=for-the-badge&logo=todoist&logoColor=35e8ff&labelColor=000000)](https://lasse.kjolstad.pro/)
+[![Email](https://img.shields.io/badge/lasse%40kjolstad.pro-000000?style=for-the-badge&logo=protonmail&logoColor=c9a24b&labelColor=000000)](mailto:lasse@kjolstad.pro)
+[![Instagram](https://img.shields.io/badge/lasse.kjolstad-000000?style=for-the-badge&logo=instagram&logoColor=35e8ff&labelColor=000000)](https://instagram.com/lasse.kjolstad)
+[![Status](https://img.shields.io/badge/STATUS-100%25_JAZZHENDER-000000?style=for-the-badge&labelColor=000000&color=c9a24b)](#)
+
+<img src="https://komarev.com/ghpvc/?username=DITT-BRUKERNAVN&style=for-the-badge&color=35e8ff&labelColor=000000&label=PROFILE+VIEWS" alt="profile views"/>
+
+</div>
+
+<br/>
+
+### `$ cat about.txt`
+
+```
+
+$ boot sequence: OK
+$ user: Lasse Kjølstad
+$ role: IT-konsulent
+$ os: Linux (only. no exceptions.)
+$ uptime: since ~1998
+$ jazzhender.sh: ✨✋✨ executing...
+$ warning: too much style detected
+
+```
+
+Jobber i skjæringspunktet mellom drift, systemer og gode løsninger.
+Linux er verktøyet jeg alltid griper til — stabilt, fleksibelt og uten unødvendig fjas.
+Fortsatt innom **IRC** titt og ofte — noen ting går aldri av moten. 🐧
+
+<br/>
+
+### `$ ls stack/`
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=c9a24b&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=35e8ff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=c9a24b&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=35e8ff&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=c9a24b&labelColor=000000"/>
+<img src="https://img.shields.io/badge/IRC-000000?style=for-the-badge&logo=element&logoColor=35e8ff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=c9a24b&labelColor=000000"/>
+</p>
+
+<br/>
+
+### `$ fetch --stats`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DITT-BRUKERNAVN&show_icons=true&theme=dark&bg_color=050708&title_color=35e8ff&icon_color=c9a24b&text_color=ece7dd&border_color=232c38&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DITT-BRUKERNAVN&theme=dark&background=050708&stroke=232c38&ring=35e8ff&fire=c9a24b&currStreakLabel=35e8ff&sideLabels=ece7dd&dates=7d8898" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050708,50:0d1117,100:050708&height=100&section=footer"/>
+<sub>📍 Lørenskog, Norge</sub>
+</div>
