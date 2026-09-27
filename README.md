@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=560&lines=~%24+root;IT Consultant+%E2%80%94+Linux+%2F+drift+%2F+infrastruktur." alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=560&lines=~%24+root;IT Consultant+%E2%80%94+Linux+%2F+drift+%2F+infrastruktur."/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1400&pause=400&color=35E8FF&center=true&vCenter=true&width=560&lines=%5B0x4E1A%5D+SYNC...+OK;%5B0x0FF1%5D+SIGNAL+UNSTABLE;%5BERR%5D+jazzhender.exe+has+stopped+responding;%5B0x2B00%5D+REBOOTING+CHARISMA..." alt="glitch log"/>
 
