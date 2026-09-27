@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050708,50:0d1117,100:050708&height=180&section=header&text=LASSE%20KJØLSTAD&fontColor=35e8ff&fontSize=42&fontAlignY=40&animation=blink&desc=root%40kjolstad.pro&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=560&lines=~%24+whoami;IT-konsulent+%E2%80%94+Linux+%2F+drift+%2F+infrastruktur;kun+Linux.+ingen+unntak.;fortsatt+innom+IRC+titt+og+ofte" alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=560&lines=~%24+root;IT Consultant+%E2%80%94+Linux+%2F+drift+%2F+infrastruktur." alt="typing banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1400&pause=400&color=35E8FF&center=true&vCenter=true&width=560&lines=%5B0x4E1A%5D+SYNC...+OK;%5B0x0FF1%5D+SIGNAL+UNSTABLE;%5BERR%5D+jazzhender.exe+has+stopped+responding;%5B0x2B00%5D+REBOOTING+CHARISMA..." alt="glitch log"/>
 
