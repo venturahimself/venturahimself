@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/badge/kjolstad.pro-000000?style=for-the-badge&logo=todoist&logoColor=35e8ff&labelColor=000000)](https://lasse.kjolstad.pro/)
 [![Email](https://img.shields.io/badge/lasse%40kjolstad.pro-000000?style=for-the-badge&logo=protonmail&logoColor=c9a24b&labelColor=000000)](mailto:lasse@kjolstad.pro)
 [![Instagram](https://img.shields.io/badge/lasse.kjolstad-000000?style=for-the-badge&logo=instagram&logoColor=35e8ff&labelColor=000000)](https://instagram.com/lasse.kjolstad)
-[![Status](https://img.shields.io/badge/STATUS-100%25_JAZZHENDER-000000?style=for-the-badge&labelColor=000000&color=c9a24b)](#)
+[![Status](https://img.shields.io/badge/STATUS-100%25_LINUX-000000?style=for-the-badge&labelColor=000000&color=c9a24b)](#)
 
 <img src="https://komarev.com/ghpvc/?username=venturahimself&style=for-the-badge&color=35e8ff&labelColor=000000&label=PROFILE+VIEWS" alt="profile views"/>
 
