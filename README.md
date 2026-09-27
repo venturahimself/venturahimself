@@ -23,19 +23,15 @@
 
 ```
 
-$ boot sequence: OK
-$ user: Lasse Kjølstad
-$ role: IT-konsulent
-$ os: Linux (only. no exceptions.)
-$ uptime: since ~1998
-$ jazzhender.sh: ✨✋✨ executing...
-$ warning: too much style detected
+$ Boot Sequence: OK
+$ Admin: Lasse Kjølstad
+$ Role: IT Consultant
+$ OS: Linux (only. no exceptions.)
+$ jazzhands.sh: ✨✋✨ executing... WARNING: Too much style detected!
 
 ```
 
-Jobber i skjæringspunktet mellom drift, systemer og gode løsninger.
-Linux er verktøyet jeg alltid griper til — stabilt, fleksibelt og uten unødvendig fjas.
-Fortsatt innom **IRC** titt og ofte — noen ting går aldri av moten. 🐧
+Linux only. 🐧
 
 <br/>
 
@@ -57,8 +53,8 @@ Fortsatt innom **IRC** titt og ofte — noen ting går aldri av moten. 🐧
 ### `$ fetch --stats`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DITT-BRUKERNAVN&show_icons=true&theme=dark&bg_color=050708&title_color=35e8ff&icon_color=c9a24b&text_color=ece7dd&border_color=232c38&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DITT-BRUKERNAVN&theme=dark&background=050708&stroke=232c38&ring=35e8ff&fire=c9a24b&currStreakLabel=35e8ff&sideLabels=ece7dd&dates=7d8898" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=venturahimself&show_icons=true&theme=dark&bg_color=050708&title_color=35e8ff&icon_color=c9a24b&text_color=ece7dd&border_color=232c38&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venturahimself&theme=dark&background=050708&stroke=232c38&ring=35e8ff&fire=c9a24b&currStreakLabel=35e8ff&sideLabels=ece7dd&dates=7d8898" height="165"/>
 </div>
 
 <br/>
