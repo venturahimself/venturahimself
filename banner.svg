@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Ventura Himself">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#48e7ff"/><stop offset=".5" stop-color="#9d5cff"/><stop offset="1" stop-color="#ff3fc7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".8" cy=".1" r=".6"><stop offset="0" stop-color="#4b00ff" stop-opacity=".22"/><stop offset="1" stop-color="#4b00ff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#6490aa" stroke-opacity=".08"/></pattern>
+    <style>
+      text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}
+      .h{font-family:Inter,"Segoe UI",system-ui,sans-serif;font-weight:900;fill:#eef7ff;letter-spacing:-3px}
+      @keyframes b{50%{opacity:0}} .cur{animation:b 1s steps(1) infinite}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="899" height="219" rx="14" fill="#07080d" stroke="#8ca0be" stroke-opacity=".25"/>
+  <rect x=".5" y=".5" width="899" height="219" rx="14" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="899" height="219" rx="14" fill="url(#glow)"/>
+  <g stroke="#48e7ff" stroke-width="1.5" fill="none" opacity=".85">
+    <path d="M24 44V24h20"/><path d="M876 24h-20M876 24v20"/><path d="M24 176v20h20"/><path d="M876 176v20h-20"/>
+  </g>
+  <text x="60" y="62" font-size="12" font-weight="700" letter-spacing="3" fill="#48e7ff"><tspan fill="#65ffad">$</tspan> whoami</text>
+  <text x="58" y="124" class="h" font-size="64">VENTURA HIMSELF<tspan fill="#48e7ff" class="cur">_</tspan></text>
+  <text x="60" y="160" font-size="13" font-weight="600" letter-spacing="3" fill="#a7b4c5">GITHUB <tspan fill="#ff3fc7">•</tspan> CODE <tspan fill="#ff3fc7">•</tspan> PROJECTS</text>
+  <text x="60" y="188" font-size="11" letter-spacing="2" fill="#5f6f83">session://venturahimself</text>
+</svg>

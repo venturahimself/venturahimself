@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="GitHub stats for Ventura Himself">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#48e7ff"/><stop offset=".5" stop-color="#9d5cff"/><stop offset="1" stop-color="#ff3fc7"/></linearGradient>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}.l{fill:#6b7b90;font-size:11px;letter-spacing:2px}.v{font-size:13px;font-weight:700;letter-spacing:1px}.c{fill:#48e7ff}.gr{fill:#65ffad}.m{fill:#8190a4;font-size:12px}.t{fill:#eef7ff;font-size:13px}.b{fill:#eef7ff;font-family:Inter,"Segoe UI",system-ui,sans-serif;font-weight:900}</style></defs>
+<rect x=".5" y=".5" width="899" height="329" rx="14" fill="#07080d" stroke="#8ca0be" stroke-opacity=".25"/>
+<rect x="24" y="24" width="500" height="282" rx="12" fill="#0c0f18" stroke="#8ca0be" stroke-opacity=".2"/>
+<path d="M24 60h500" stroke="#8ca0be" stroke-opacity=".2"/>
+<circle cx="44" cy="42" r="3.5" fill="#45505f"/>
+<circle cx="58" cy="42" r="3.5" fill="#45505f"/>
+<circle cx="72" cy="42" r="3.5" fill="#45505f"/>
+<text x="274" y="46" text-anchor="middle" class="l" style="font-size:10px;letter-spacing:1px">session://venturahimself</text>
+<text x="44" y="92" class="t"><tspan class="gr">$</tspan> gh api users/venturahimself</text>
+<text x="44" y="114" class="m">profile loaded</text>
+<text x="44" y="142" class="t"><tspan class="gr">[OK]</tspan> repositories: <tspan font-weight="700">3</tspan></text>
+<text x="44" y="164" class="t"><tspan class="gr">[OK]</tspan> stars: <tspan font-weight="700">9</tspan></text>
+<text x="44" y="186" class="t"><tspan class="gr">[OK]</tspan> followers: <tspan font-weight="700">20</tspan></text>
+<text x="44" y="216" class="m">top repositories</text>
+<text x="44" y="238" class="t"><tspan class="c">&gt;</tspan> venturahimself <tspan class="m">★ 5</tspan></text>
+<text x="44" y="258" class="t"><tspan class="c">&gt;</tspan> venturahimself.github.io <tspan class="m">★ 4</tspan></text>
+<text x="44" y="278" class="t"><tspan class="c">&gt;</tspan> development <tspan class="m">★ 0</tspan></text>
+<g stroke="#48e7ff" stroke-width="1.5" fill="none" opacity=".85"><path d="M552 44v-20h20"/><path d="M876 24h-20M876 24v20" transform="translate(0 0)"/><path d="M552 286v20h20"/><path d="M876 286v20h-20"/></g>
+<text x="572" y="58" class="l">GITHUB // STATS</text>
+<text x="572" y="118" class="b" font-size="62" letter-spacing="-3">3</text>
+<text x="572" y="138" class="l" style="font-size:9px">PUBLIC REPOSITORIES</text>
+<path d="M572 149h284" stroke="#8ca0be" stroke-opacity=".18"/>
+<text x="572" y="164" class="l" style="font-size:10px">STARS</text>
+<text x="856" y="164" text-anchor="end" class="v c">9</text>
+<path d="M572 177h284" stroke="#8ca0be" stroke-opacity=".18"/>
+<text x="572" y="192" class="l" style="font-size:10px">FOLLOWERS</text>
+<text x="856" y="192" text-anchor="end" class="v c">20</text>
+<path d="M572 205h284" stroke="#8ca0be" stroke-opacity=".18"/>
+<text x="572" y="220" class="l" style="font-size:10px">FOLLOWING</text>
+<text x="856" y="220" text-anchor="end" class="v c">50</text>
+<path d="M572 233h284" stroke="#8ca0be" stroke-opacity=".18"/>
+<text x="572" y="248" class="l" style="font-size:10px">MEMBER SINCE</text>
+<text x="856" y="248" text-anchor="end" class="v gr">2014</text>
+<path d="M572 261h284" stroke="#8ca0be" stroke-opacity=".18"/>
+<text x="572" y="276" class="l" style="font-size:10px">LAST PUSH</text>
+<text x="856" y="276" text-anchor="end" class="v gr">8d ago</text>
+<text x="572" y="304" class="l" style="font-size:9px">UPDATED 2026-10-05</text>
+</svg>
