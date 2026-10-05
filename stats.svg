@@ -8,7 +8,7 @@
 <circle cx="58" cy="42" r="3.5" fill="#45505f"/>
 <circle cx="72" cy="42" r="3.5" fill="#45505f"/>
 <text x="274" y="46" text-anchor="middle" class="l" style="font-size:10px;letter-spacing:1px">Terminal:// venturahimself</text>
-<text x="44" y="92" class="t"><tspan class="gr">$</tspan> gh api users/venturahimself</text>
+<text x="44" y="92" class="t"><tspan class="gr">$</tspan> gh venturahimself</text>
 <text x="44" y="114" class="m">profile loaded</text>
 <text x="44" y="142" class="t"><tspan class="gr">[OK]</tspan> repositories: <tspan font-weight="700">3</tspan></text>
 <text x="44" y="164" class="t"><tspan class="gr">[OK]</tspan> stars: <tspan font-weight="700">9</tspan></text>
