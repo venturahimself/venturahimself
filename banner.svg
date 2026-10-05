@@ -17,7 +17,7 @@
   <g stroke="#48e7ff" stroke-width="1.5" fill="none" opacity=".85">
     <path d="M24 44V24h20"/><path d="M876 24h-20M876 24v20"/><path d="M24 176v20h20"/><path d="M876 176v20h-20"/>
   </g>
-  <text x="60" y="62" font-size="12" font-weight="700" letter-spacing="3" fill="#48e7ff"><tspan fill="#65ffad">$</tspan> whoami</text>
+  <text x="60" y="62" font-size="12" font-weight="700" letter-spacing="3" fill="#48e7ff"><tspan fill="#65ffad">$</tspan> root</text>
   <text x="58" y="124" class="h" font-size="64">VENTURA HIMSELF<tspan fill="#48e7ff" class="cur">_</tspan></text>
   <text x="60" y="160" font-size="13" font-weight="600" letter-spacing="3" fill="#a7b4c5">GITHUB <tspan fill="#ff3fc7">•</tspan> CODE <tspan fill="#ff3fc7">•</tspan> PROJECTS</text>
   <text x="60" y="188" font-size="11" letter-spacing="2" fill="#5f6f83">session://venturahimself</text>
