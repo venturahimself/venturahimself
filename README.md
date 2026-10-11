@@ -1,138 +1,161 @@
 <div align="center">
 
-<img src="banner.svg" alt="Ventura Himself — profile banner" width="100%">
+<a href="https://github.com/venturahimself">
+  <img src="banner.svg" width="100%" alt="VENTURAHIMSELF — digital identity">
+</a>
 
 <br>
 
-# VENTURA HIMSELF
-
-### `Independent mind. Technical curiosity. Continuous evolution.`
-
-<p>
-  <a href="https://github.com/venturahimself">
-    <img src="https://img.shields.io/badge/GitHub-venturahimself-07080d?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile">
-  </a>
-  <a href="https://venturahimself.github.io">
-    <img src="https://img.shields.io/badge/Website-Visit-07080d?style=for-the-badge&logo=googlechrome&logoColor=48e7ff" alt="Personal website">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Always%20learning-07080d?style=for-the-badge&labelColor=07080d&color=9d5cff" alt="Always learning">
-</p>
-
-<p>
-  <i>Exploring ideas, building things, and learning how systems fit together.</i>
-</p>
-
-</div>
-
----
-
-## `01 / ABOUT`
-
-I'm **Ventura Himself** — curious by nature, drawn to technology, digital projects, and the process of turning ideas into something real.
-
-This GitHub profile is my public workspace: a place for experiments, projects, problem-solving, and whatever I discover along the way.
-
-- **Explore** — learn how things work, from the surface down to the details.
-- **Build** — turn concepts into practical projects and useful tools.
-- **Improve** — iterate, experiment, and keep learning.
-- **Share** — make work visible and give ideas room to grow.
-
-> The goal isn't to know everything. It's to keep asking better questions and build better things.
-
-## `02 / CURRENT FOCUS`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌘ Building</h3>
-      Developing ideas into practical digital projects, experimenting with approaches, and improving the details that make software feel considered.
-    </td>
-    <td width="50%" valign="top">
-      <h3>◈ Exploring</h3>
-      Exploring technology, systems, automation, design, and the connections between them.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌁ Learning</h3>
-      Learning through hands-on work, testing assumptions, and understanding why a solution works—not just whether it works.
-    </td>
-    <td width="50%" valign="top">
-      <h3>↗ Improving</h3>
-      Refining workflows, simplifying complexity, and making each iteration more useful than the last.
-    </td>
-  </tr>
-</table>
-
-## `03 / SELECTED WORK`
-
-The repositories below are the best place to explore what I'm working on. Projects evolve over time, so check each repository for its current status, documentation, and setup instructions.
-
-<p align="center">
-  <a href="https://github.com/venturahimself?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20all%20repositories-Open%20projects-07080d?style=for-the-badge&logo=github&logoColor=48e7ff" alt="Explore all repositories">
-  </a>
-</p>
-
-<!--
-When you have chosen the projects you want to feature, replace this comment
-with 2–4 real projects and a one-line description for each.
-
-Example:
-### [Project name](https://github.com/venturahimself/REPOSITORY)
-A short explanation of the problem it solves and what makes it interesting.
--->
-
-## `04 / GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="stats.svg" alt="GitHub statistics" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=54F1FF&center=true&vCenter=true&width=700&lines=INDEPENDENT+MIND.;BUILDING+WITH+INTENT.;CURIOUS+BY+DEFAULT.;ALWAYS+IN+MOTION." alt="Independent mind. Building with intent. Curious by default. Always in motion.">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=venturahimself&show_icons=true&hide_border=true&bg_color=07080d&title_color=48e7ff&text_color=c9d1d9&icon_color=9d5cff&ring_color=48e7ff" alt="GitHub overview" width="100%">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venturahimself&hide_border=true&background=07080d&ring=48e7ff&fire=9d5cff&currStreakLabel=48e7ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub contribution streak" width="100%">
-
-</div>
-
-<sub>Statistics are provided by third-party services and may occasionally be unavailable or delayed.</sub>
-
-## `05 / PRINCIPLES`
-
-```text
- curiosity > assumptions
- clarity   > complexity
- progress  > perfection
- practice  > theory alone
-```
-
-I value thoughtful problem-solving, useful work, honest iteration, and the freedom to explore an idea before deciding what it could become.
-
-## `06 / CONNECT`
-
-Have an idea, spotted something interesting, or want to talk about a project?
-
-<p align="center">
-  <a href="https://github.com/venturahimself">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-07080d?style=for-the-badge&logo=github&logoColor=ffffff" alt="Follow on GitHub">
-  </a>
-  <a href="https://venturahimself.github.io">
-    <img src="https://img.shields.io/badge/Visit%20my%20website-07080d?style=for-the-badge&logo=googlechrome&logoColor=48e7ff" alt="Visit my website">
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<sub><code>VENTURAHIMSELF / KEEP EXPLORING / KEEP BUILDING</code></sub>
+<a href="https://github.com/venturahimself?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-080B12?style=for-the-badge&labelColor=080B12&color=54F1FF" alt="Explore repositories">
+</a>
+<a href="https://github.com/venturahimself?tab=stars">
+  <img src="https://img.shields.io/badge/OPEN-SOURCE-080B12?style=for-the-badge&labelColor=080B12&color=9B7BFF" alt="Open source">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=venturahimself&style=flat-square&color=07080d&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%2F%20BUILDING-080B12?style=flat-square&labelColor=080B12&color=54F1FF" alt="Learning and building">
+<img src="https://img.shields.io/badge/MODE-CURIOSITY%20ON-080B12?style=flat-square&labelColor=080B12&color=9B7BFF" alt="Curiosity on">
+
+</div>
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  VENTURAHIMSELF                                             ONLINE   │
+│                                                                      │
+│  Independent thinking. Technical curiosity. Intentional creation.    │
+│                                                                      │
+│  I explore how things work, connect ideas, and turn curiosity into   │
+│  projects. This profile is my public workshop — experiments,        │
+│  useful tools, evolving ideas, and lessons learned along the way.    │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+## `01` — THE MINDSET
+
+I don't want to just use technology. I want to understand it, question it, and see what else it can do.
+
+I'm interested in the space where **technology, systems, design, and ideas** meet. I learn by exploring, building, breaking things safely, and improving what I make.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `// EXPLORE`
+
+Follow a question beyond the obvious answer. Understand the moving parts. Look for connections others might miss.
+
+</td>
+<td width="50%" valign="top">
+
+### `// CREATE`
+
+Turn a concept into something tangible. Prefer useful outcomes over noise, and thoughtful execution over shortcuts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `// QUESTION`
+
+Challenge assumptions. Stay open to being wrong. Keep evidence and curiosity in the same room.
+
+</td>
+<td width="50%" valign="top">
+
+### `// EVOLVE`
+
+Every project is a snapshot, not a final form. Learn, refine, simplify, repeat.
+
+</td>
+</tr>
+</table>
+
+## `02` — THE WORKSHOP
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IDEAS-01-080B12?style=for-the-badge&labelColor=080B12&color=54F1FF" alt="Ideas">
+<img src="https://img.shields.io/badge/EXPERIMENTS-02-080B12?style=for-the-badge&labelColor=080B12&color=9B7BFF" alt="Experiments">
+<img src="https://img.shields.io/badge/ITERATION-03-080B12?style=for-the-badge&labelColor=080B12&color=54F1FF" alt="Iteration">
+
+</div>
+
+This GitHub is a living workbench. Some repositories may be polished; others may be experiments, prototypes, or notes from figuring something out. The point is to make progress visible and let useful ideas develop.
+
+**Start exploring:**
+
+- [All repositories](https://github.com/venturahimself?tab=repositories) — browse projects and experiments.
+- [Pinned projects](https://github.com/venturahimself) — a quick route to the work featured on my profile.
+- [Starred repositories](https://github.com/venturahimself?tab=stars) — things I find worth keeping an eye on.
+
+> No invented expertise. No fake hustle. Just curiosity, work, and progress.
+
+## `03` — SIGNAL / ACTIVITY
+
+<div align="center">
+
+<img src="stats.svg" width="100%" alt="Custom GitHub statistics graphic">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=venturahimself&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=080B12&title_color=54F1FF&text_color=C8D2E0&icon_color=9B7BFF&ring_color=54F1FF&include_all_commits=true" width="100%" alt="GitHub contribution and repository statistics">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venturahimself&hide_border=true&background=080B12&ring=54F1FF&fire=9B7BFF&currStreakLabel=54F1FF&sideLabels=C8D2E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8A9B" width="100%" alt="GitHub contribution streak">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venturahimself&bg_color=080B12&color=C8D2E0&line=54F1FF&point=9B7BFF&area=true&area_color=172431&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+
+</div>
+
+<sub>Live cards are rendered by external services. Availability, caching, and displayed metrics may vary.</sub>
+
+## `04` — OPERATING PRINCIPLES
+
+```yaml
+identity:     independent
+approach:     curious
+priority:     useful work
+default_mode: experiment
+belief:
+  - clarity over unnecessary complexity
+  - evidence over assumptions
+  - progress over perfection
+  - understanding over imitation
+  - substance over appearance
+```
+
+## `05` — NEXT CONNECTION
+
+Have a thoughtful question, an interesting idea, or a project worth exploring?
+
+<div align="center">
+
+<a href="https://github.com/venturahimself">
+  <img src="https://img.shields.io/badge/CONNECT-ON_GITHUB-080B12?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080B12&color=54F1FF" alt="Connect on GitHub">
+</a>
+
+<br><br>
+
+<sub>LESS NOISE. MORE SIGNAL.</sub>
+
+<br>
+
+<sub><code>VENTURAHIMSELF :: KEEP QUESTIONING / KEEP BUILDING</code></sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=venturahimself&style=flat-square&color=080B12&label=VISITORS" alt="Profile visitor count">
 
 </div>
